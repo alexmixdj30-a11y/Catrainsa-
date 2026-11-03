@@ -1,0 +1,8 @@
+{
+  "name": "Buscador de Estado de Cuenta",
+  "description": "Sistema de consulta de estados de cuenta, haberes y préstamos para socios de cajas de ahorro con importación de Excel e impresión de reportes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+

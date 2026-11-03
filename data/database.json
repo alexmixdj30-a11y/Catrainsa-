@@ -1,0 +1,15 @@
+{
+  "config": {
+    "nombre": "Caja de Ahorro de los Trabajadores de Insalud Apure",
+    "rif": "J-30584912-8",
+    "sector": "Sector Administrativo y Servicios",
+    "direccion": "Av. Libertador, Edificio Torre Financiera, Piso 6, Ofic. 6-B",
+    "telefonoWhatsapp": "0412-4238613",
+    "correo": "alexmixdj.30@gmail.com",
+    "monedaSimbolo": "Bs.",
+    "logoTipo": "icono",
+    "logoUrl": ""
+  },
+  "theme": "azul-bancario",
+  "password": "clara/*12"
+}
